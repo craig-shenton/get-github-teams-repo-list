@@ -42,7 +42,7 @@ Replace "your_organisation" with your GitHub organisation name, "your_team" with
 Run the script using the following command:
 
 ```bash
-python script.py
+python run.py
 ```
 
 The script will fetch all repositories associated with the specified team, handle pagination, and save the repository information to an Excel file (your_team_repositories.xlsx).

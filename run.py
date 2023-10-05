@@ -1,9 +1,9 @@
 import requests
 import pandas as pd
 
-ORG_NAME = "..."
-TEAM_NAME = "..."
-GITHUB_TOKEN = "..."
+ORG_NAME = "your_organization"
+TEAM_NAME = "your_team"
+GITHUB_TOKEN = "YOUR_GITHUB_TOKEN"
 
 # Function to fetch all teams for the organization
 def get_all_teams():
